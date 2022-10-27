@@ -50,7 +50,7 @@
   },
   "homepage": "https://github.com/nthparty/opaque#readme",
   "dependencies": {
-    "libsodium-wrappers-sumo": "0.7.6",
+    "libsodium-wrappers-sumo": "0.7.8",
     "oprf": "2.0.0"
   },
   "devDependencies": {
